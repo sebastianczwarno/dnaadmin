@@ -1,7 +1,8 @@
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "1.4.10"
-    id("org.jetbrains.kotlin.kapt") version "1.4.10"
-    id("org.jetbrains.kotlin.plugin.allopen") version "1.4.10"
+    val kotlinVersion = "1.4.21"
+    id("org.jetbrains.kotlin.jvm") version kotlinVersion
+    id("org.jetbrains.kotlin.kapt") version kotlinVersion
+    id("org.jetbrains.kotlin.plugin.allopen") version kotlinVersion
     id("com.github.johnrengelman.shadow") version "6.1.0"
     id("io.micronaut.application") version "1.2.0"
 }
@@ -9,7 +10,11 @@ plugins {
 version = "0.1"
 group = "com.sggw"
 
-val kotlinVersion=project.properties.get("kotlinVersion")
+val kotlinVersion = project.properties["kotlinVersion"]?.toString() ?: "0"
+val jvmVersion = project.properties["jvmVersion"]?.toString() ?: "0"
+val postgresVersion = project.properties["postgresVersion"]?.toString() ?: "0"
+val fullMainClass = "com.sggw.ApplicationKt"
+
 repositories {
     mavenCentral()
     jcenter()
@@ -25,7 +30,7 @@ micronaut {
 }
 
 dependencies {
-    kapt("io.micronaut.openapi:micronaut-openapi")
+    kapt("io.micronaut.openapi:micronaut-openapi:2.3.0")
     implementation("io.micronaut:micronaut-validation")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
     implementation("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
@@ -41,29 +46,27 @@ dependencies {
     runtimeOnly("ch.qos.logback:logback-classic")
     runtimeOnly("com.fasterxml.jackson.module:jackson-module-kotlin")
     runtimeOnly("com.h2database:h2")
+    runtimeOnly("org.postgresql:postgresql:${postgresVersion}")
 }
 
 
 application {
-    mainClass.set("com.sggw.ApplicationKt")
+    mainClass.set(fullMainClass)
 }
 
 java {
-    sourceCompatibility = JavaVersion.toVersion("14")
+    sourceCompatibility = JavaVersion.toVersion(jvmVersion)
 }
 
 tasks {
     compileKotlin {
         kotlinOptions {
-            jvmTarget = "14"
+            jvmTarget = jvmVersion
         }
     }
     compileTestKotlin {
         kotlinOptions {
-            jvmTarget = "14"
+            jvmTarget = jvmVersion
         }
     }
-
-
 }
-
