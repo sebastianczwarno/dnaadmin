@@ -1,4 +1,4 @@
-package dnaadmin;
+package org.sggw.dnaadmin;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.micronaut.http.HttpResponse;

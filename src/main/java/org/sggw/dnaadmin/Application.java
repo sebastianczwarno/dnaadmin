@@ -1,4 +1,4 @@
-package dnaadmin;
+package org.sggw.dnaadmin;
 
 import io.micronaut.runtime.Micronaut;
 import io.swagger.v3.oas.annotations.*;
@@ -6,7 +6,7 @@ import io.swagger.v3.oas.annotations.info.*;
 
 @OpenAPIDefinition(
     info = @Info(
-            title = "dnaadmin",
+            title = "org/sggw/dnaadmin",
             version = "0.0"
     )
 )
