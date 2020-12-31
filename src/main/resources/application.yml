@@ -1,4 +1,6 @@
 micronaut:
+  application:
+    name: dnaadmin
   router:
     static-resources:
       swagger:
@@ -13,17 +15,14 @@ micronaut:
       swagger-ui:
         paths: classpath:META-INF/swagger/org/sggw/views/swagger-ui
         mapping: /swagger-ui/**
-  application:
-    name: dnaadmin
-datasource:
+datasources:
   default:
     url: jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
     driverClassName: org.h2.Driver
     username: sa
     password: ''
     dialect: H2
-  heroku:
-    url: ${JDBC_DATABASE_URL}
-    driverClassName: org.postgresql.Driver
-    username: ${JDBC_DATABASE_USERNAME}
-    password: ${JDBC_DATABASE_PASSWORD}
+flyway:
+  datasources:
+    default:
+      enabled: true

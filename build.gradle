@@ -38,12 +38,12 @@ dependencies {
 
 
 application {
-    mainClass.set("org.sggw.dnaadmin.Application")
+    it.mainClass.set("org.sggw.dnaadmin.Application")
 }
 
 java {
-    sourceCompatibility = JavaVersion.toVersion("15")
-    targetCompatibility = JavaVersion.toVersion("15")
+    sourceCompatibility = JavaVersion.toVersion(property("javaVersion"))
+    targetCompatibility = JavaVersion.toVersion(property("javaVersion"))
 }
 
 tasks.withType(JavaCompile).all {
@@ -59,4 +59,3 @@ tasks.withType(JavaExec) {
 tasks.withType(Test) {
     jvmArgs += "--enable-preview"
 }
-

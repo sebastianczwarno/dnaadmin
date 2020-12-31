@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: dnaadmin
+datasources:
+  default:
+    url: ${JDBC_DATABASE_URL}
+    driverClassName: org.postgresql.Driver
+    username: ${JDBC_DATABASE_USERNAME}
+    password: ${JDBC_DATABASE_PASSWORD}
+flyway:
+  datasources:
+    default:
+      enabled: true
