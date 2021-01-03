@@ -1,0 +1,32 @@
+plugins {
+    id("com.github.node-gradle.node")
+}
+
+node {
+    version = '14.15.3' // https://nodejs.org/en/
+    download = true
+}
+
+task start(type: NodeTask, dependsOn: 'node') {
+    group = 'application'
+    description = 'Run the client app'
+    args = ['run', 'start']
+}
+
+task build(type: NodeTask, dependsOn: 'node') {
+    group = 'build'
+    description = 'Build the client bundle'
+    args = ['run', 'build']
+}
+
+task test(type: NodeTask, dependsOn: 'npm') {
+    group = 'verification'
+    description = 'Run the client tests'
+    args = ['run', 'test']
+}
+
+task eject(type: NodeTask, dependsOn: 'npm') {
+    group = 'other'
+    description = 'Eject from the create-react-app scripts'
+    args = ['run', 'eject']
+}
