@@ -1,0 +1,1188 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-01-03 22:50:39,094 [   8846]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-03 22:50:39,132 [   8884]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-03 22:50:39,136 [   8888]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,136 [   8888]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,137 [   8889]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,137 [   8889]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,137 [   8889]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,138 [   8890]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,138 [   8890]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,139 [   8891]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,140 [   8892]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,140 [   8892]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,140 [   8892]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,141 [   8893]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,142 [   8894]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,142 [   8894]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,143 [   8895]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,144 [   8896]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,144 [   8896]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,145 [   8897]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,145 [   8897]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,146 [   8898]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,147 [   8899]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,147 [   8899]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,148 [   8900]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,148 [   8900]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,148 [   8900]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,149 [   8901]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,149 [   8901]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,150 [   8902]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,150 [   8902]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,151 [   8903]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,151 [   8903]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,152 [   8904]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,152 [   8904]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,152 [   8904]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,153 [   8905]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,153 [   8905]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,153 [   8905]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,154 [   8906]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,154 [   8906]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,155 [   8907]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,155 [   8907]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,155 [   8907]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,156 [   8908]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,156 [   8908]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,157 [   8909]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,157 [   8909]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,157 [   8909]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,158 [   8910]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,158 [   8910]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,158 [   8910]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,159 [   8911]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,159 [   8911]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,160 [   8912]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,160 [   8912]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,160 [   8912]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,161 [   8913]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,161 [   8913]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,162 [   8914]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,162 [   8914]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,163 [   8915]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,163 [   8915]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,164 [   8916]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,164 [   8916]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,164 [   8916]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,165 [   8917]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,165 [   8917]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,165 [   8917]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,166 [   8918]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,166 [   8918]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,166 [   8918]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,255 [   9007]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,255 [   9007]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,256 [   9008]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,256 [   9008]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,256 [   9008]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,256 [   9008]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,257 [   9009]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,257 [   9009]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,257 [   9009]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,258 [   9010]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,258 [   9010]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,258 [   9010]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,258 [   9010]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,259 [   9011]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,259 [   9011]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,259 [   9011]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,260 [   9012]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,260 [   9012]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,260 [   9012]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:39,260 [   9012]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-03 22:50:40,313 [  10065]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:50:40,385 [  10137]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:50:40,394 [  10146]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:50:40,435 [  10187]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:50:40,472 [  10224]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:50:40,480 [  10232]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:51:35,733 [  65485]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-b9f6be0da5eea3ed5d88b13250fbf110c0f4661096dd8511d446d74256de053e-b2f15794fbf6 is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:51:36,477 [  66229]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:51:37,034 [  66786]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-8af429280ba052872ca2df9c5f6990c53016a9a62f1053a2541b1b970a825b03-fa0196ca5ca8 is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:51:37,477 [  67229]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-e1f82eb82ffe8f7d56ec125b34e064fc9c3719e5b692f9ea97a7efac00dbe877-1b7b21593c6a is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:51:37,550 [  67302]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-f1455bf821c9ea90b5bbd42ba1d220ae86ad0e4484a3f36bc58e1c6d743e0e84-1b7b21593c6a is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:51:37,559 [  67311]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-5ceb5e1367431aa94c9529c9d902cff56c02ff7405b47f41f2183d5127879ff0-1b7b21593c6a is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:52:14,258 [ 104010]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-f14e8c0930ebb933b58945f190d979a210d1eb6a523007f586dece6733396514-a054a100ae5b is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:52:15,241 [ 104993]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:52:15,758 [ 105510]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:52:16,311 [ 106063]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:16,362 [ 106114]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:16,363 [ 106115]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:16,369 [ 106121]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:52:16,391 [ 106143]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:16,443 [ 106195]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:16,450 [ 106202]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:52:19,645 [ 109397]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:52:21,013 [ 110765]   WARN - com.intellij.util.xmlb.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId 
+2021-01-03 22:52:34,799 [ 124551]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-8fe44e3ab774e76733bb6a4832c4d4e0bd8621c9c8d12323af78949d83330ae6-fa0196ca5ca8 is incompatible and is not registered for project 'dnaadmin' 
+2021-01-03 22:54:38,054 [ 247806]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:54:38,203 [ 247955]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:54:38,271 [ 248023]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 22:56:00,949 [ 330701]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:00,974 [ 330726]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:00,976 [ 330728]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:01,009 [ 330761]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:01,035 [ 330787]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:01,040 [ 330792]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 22:56:29,415 [ 359167]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (43)!!! 
+2021-01-03 22:58:38,029 [ 487781]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-01-03 23:01:21,268 [ 651020]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:01:21,708 [ 651460]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:21,728 [ 651480]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:21,729 [ 651481]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:21,745 [ 651497]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:21,782 [ 651534]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:21,790 [ 651542]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:01:32,921 [ 662673]   WARN - util.DeprecatedMethodException - This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead 
+com.intellij.util.DeprecatedMethodException: This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead
+	at com.intellij.util.DeprecatedMethodException.report(DeprecatedMethodException.java:28)
+	at com.intellij.codeInsight.daemon.impl.TrafficLightRenderer.<init>(TrafficLightRenderer.java:76)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor$ScriptTrafficLightRenderer.<init>(ScriptTrafficLightRendererContributor.kt:27)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor.createRenderer(ScriptTrafficLightRendererContributor.kt:21)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.createRenderer(ErrorStripeUpdateManager.java:91)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.setOrRefreshErrorStripeRenderer(ErrorStripeUpdateManager.java:81)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.repaintErrorStripePanel(ErrorStripeUpdateManager.java:61)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$4.activeEditorsChanged(DaemonListeners.java:177)
+	at jdk.internal.reflect.GeneratedMethodAccessor484.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:652)
+	at com.intellij.util.messages.impl.MessageBusImpl.deliverMessage(MessageBusImpl.java:426)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:401)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:383)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$100(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:189)
+	at com.sun.proxy.$Proxy99.activeEditorsChanged(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.EditorTracker.setActiveEditors(EditorTracker.java:204)
+	at com.intellij.codeInsight.daemon.impl.EditorTracker.setActiveWindow(EditorTracker.java:184)
+	at com.intellij.codeInsight.daemon.impl.EditorTracker.registerEditor(EditorTracker.java:134)
+	at com.intellij.codeInsight.daemon.impl.EditorTracker.lambda$createEditorImpl$0(EditorTracker.java:225)
+	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:334)
+	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:266)
+	at java.desktop/java.awt.Component.firePropertyChange(Component.java:8754)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4792)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addNotify(Container.java:2800)
+	at java.desktop/javax.swing.JComponent.addNotify(JComponent.java:4791)
+	at java.desktop/java.awt.Container.addImpl(Container.java:1146)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.addImpl(JBTabsImpl.java:2247)
+	at java.desktop/java.awt.Container.add(Container.java:436)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.updateContainer(JBTabsImpl.java:2221)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.executeSelectionChange(JBTabsImpl.java:1164)
+	at com.intellij.ui.tabs.impl.JBTabsImpl$9.run(JBTabsImpl.java:1123)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer.lambda$new$1(EditorTabbedContainer.java:107)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:211)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:177)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:167)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:153)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer.lambda$new$2(EditorTabbedContainer.java:105)
+	at com.intellij.ui.tabs.impl.JBTabsImpl._setSelected(JBTabsImpl.java:1119)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.select(JBTabsImpl.java:1109)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$EditorTabs.select(EditorTabbedContainer.java:665)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer.setSelectedIndex(EditorTabbedContainer.java:142)
+	at com.intellij.openapi.fileEditor.impl.EditorWindow.setSelectedEditor(EditorWindow.java:490)
+	at com.intellij.openapi.fileEditor.impl.EditorWindow.setEditor(EditorWindow.java:555)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl4Edt(FileEditorManagerImpl.java:924)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openFileImpl4$17(FileEditorManagerImpl.java:860)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.runBulkTabChange(FileEditorManagerImpl.java:1680)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openFileImpl4$18(FileEditorManagerImpl.java:859)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:463)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:481)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl4(FileEditorManagerImpl.java:858)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl3(FileEditorManagerImpl.java:804)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openFileImpl2$14(FileEditorManagerImpl.java:785)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:211)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:177)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:167)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:153)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl2(FileEditorManagerImpl.java:785)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileWithProviders(FileEditorManagerImpl.java:678)
+	at com.intellij.openapi.fileEditor.ex.FileEditorManagerEx.openFile(FileEditorManagerEx.java:131)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openEditorImpl$21(FileEditorManagerImpl.java:1149)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:211)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:177)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:167)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:153)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openEditorImpl(FileEditorManagerImpl.java:1147)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileEditor(FileEditorManagerImpl.java:1124)
+	at com.intellij.openapi.fileEditor.FileEditorManager.openEditor(FileEditorManager.java:217)
+	at com.intellij.openapi.fileEditor.FileNavigatorImpl.navigateInAnyFileEditor(FileNavigatorImpl.java:84)
+	at com.intellij.openapi.fileEditor.FileNavigatorImpl.navigateInEditor(FileNavigatorImpl.java:65)
+	at com.intellij.openapi.fileEditor.FileNavigatorImpl.navigateInEditorOrNativeApp(FileNavigatorImpl.java:50)
+	at com.intellij.openapi.fileEditor.FileNavigatorImpl.navigate(FileNavigatorImpl.java:33)
+	at com.intellij.openapi.fileEditor.OpenFileDescriptor.navigate(OpenFileDescriptor.java:90)
+	at com.intellij.psi.impl.source.PsiFileImpl.navigate(PsiFileImpl.java:915)
+	at com.intellij.codeInsight.navigation.NavigationUtil.lambda$openFileWithPsiElement$2(NavigationUtil.java:178)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:220)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:177)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:167)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:153)
+	at com.intellij.codeInsight.navigation.NavigationUtil.openFileWithPsiElement(NavigationUtil.java:171)
+	at com.intellij.ide.projectView.impl.nodes.AbstractPsiBasedNode.navigate(AbstractPsiBasedNode.java:235)
+	at com.intellij.ide.projectView.impl.nodes.AbstractPsiBasedNode.navigate(AbstractPsiBasedNode.java:245)
+	at com.intellij.ide.projectView.impl.nodes.PsiFileNode.navigate(PsiFileNode.java:116)
+	at com.intellij.util.OpenSourceUtil.navigateToSource(OpenSourceUtil.java:119)
+	at com.intellij.util.OpenSourceUtil.navigate(OpenSourceUtil.java:74)
+	at com.intellij.util.OpenSourceUtil.navigate(OpenSourceUtil.java:58)
+	at com.intellij.util.OpenSourceUtil.navigate(OpenSourceUtil.java:51)
+	at com.intellij.util.OpenSourceUtil.openSourcesFrom(OpenSourceUtil.java:19)
+	at com.intellij.util.EditSourceOnDoubleClickHandler$TreeMouseListener.processDoubleClick(EditSourceOnDoubleClickHandler.java:166)
+	at com.intellij.util.EditSourceOnDoubleClickHandler$TreeMouseListener.onDoubleClick(EditSourceOnDoubleClickHandler.java:160)
+	at com.intellij.ui.DoubleClickListener.onClick(DoubleClickListener.java:30)
+	at com.intellij.ui.ClickListener$1.mouseReleased(ClickListener.java:59)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:298)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at com.intellij.ui.treeStructure.Tree.processMouseEvent(Tree.java:385)
+	at com.intellij.ide.dnd.aware.DnDAwareTree.processMouseEvent(DnDAwareTree.java:45)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:976)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:911)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:840)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:454)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:773)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:453)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:507)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-01-03 23:06:41,673 [ 971425]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-01-03 23:14:40,613 [1450365]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (23)!!! 
+2021-01-03 23:14:52,540 [1462292]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (14)!!! 
+2021-01-03 23:14:52,561 [1462313]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-01-03 23:15:18,663 [1488415]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (27)!!! 
+2021-01-03 23:19:23,809 [1733561]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7127ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210103-231921-IU-203.6682.168-X11GraphicsConfig.pGetBounds-7sec 
+2021-01-03 23:22:00,265 [1890017]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (26)!!! 
+2021-01-03 23:22:03,156 [1892908]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (21)!!! 
+2021-01-03 23:22:16,398 [1906150]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (29)!!! 
+2021-01-03 23:22:34,509 [1924261]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (29)!!! 
+2021-01-03 23:22:38,005 [1927757]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-01-03 23:22:38,013 [1927765]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (14)!!! 
+2021-01-03 23:30:10,815 [2380567]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-01-03 23:45:14,951 [3284703]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:48,758 [3378510]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:48,962 [3378714]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,128 [3378880]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,184 [3378936]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,283 [3379035]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,426 [3379178]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,563 [3379315]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,711 [3379463]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:46:49,809 [3379561]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:47:12,140 [3401892]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (16)!!! 
+2021-01-03 23:47:45,236 [3434988]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:47:45,280 [3435032]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:47:45,282 [3435034]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:47:45,299 [3435051]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:47:45,335 [3435087]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:47:45,342 [3435094]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-03 23:48:17,902 [3467654]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-01-03 23:49:22,242 [3531994]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:49:22,949 [3532701]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:50:18,869 [3588621]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:50:19,008 [3588760]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:50:19,843 [3589595]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:50:42,976 [3612728]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:51:20,078 [3649830]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:53:01,508 [3751260]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:53:02,278 [3752030]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:56:10,860 [3940612]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:59:08,842 [4118594]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-03 23:59:51,024 [4160776]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 00:06:17,163 [4546915]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007ffa652a2371, pid=833, tid=841
+#
+# JRE version: OpenJDK Runtime Environment JBR-11.0.9.1.11-1145.63-jcef (11.0.9.1+11) (build 11.0.9.1+11-b1145.63)
+# Java VM: OpenJDK 64-Bit Server VM JBR-11.0.9.1.11-1145.63-jcef (11.0.9.1+11-b1145.63, mixed mode, tiered, compressed oops, concurrent mark sweep gc, linux-amd64)
+# Problematic frame:
+# C  [libjimage.so+0x4371]  ImageStrings::find(Endian*, char const*, int*, unsigned int)+0x71
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/scz/java_error_in_idea_833.log
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-01-04 15:09:42,619 [  12864]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:09:45,298 [  15543]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 15:09:45,408 [  15653]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 15:09:45,411 [  15656]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,412 [  15657]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,412 [  15657]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,413 [  15658]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,413 [  15658]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,413 [  15658]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,414 [  15659]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,414 [  15659]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,415 [  15660]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,415 [  15660]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,415 [  15660]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,416 [  15661]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,416 [  15661]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,417 [  15662]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,417 [  15662]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,418 [  15663]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,418 [  15663]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,419 [  15664]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,419 [  15664]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,419 [  15664]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,419 [  15664]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,420 [  15665]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,420 [  15665]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,421 [  15666]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,422 [  15667]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,422 [  15667]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,423 [  15668]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,423 [  15668]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,424 [  15669]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,424 [  15669]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,425 [  15670]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,425 [  15670]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,426 [  15671]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,426 [  15671]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,426 [  15671]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,427 [  15672]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,427 [  15672]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,428 [  15673]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,428 [  15673]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,428 [  15673]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,429 [  15674]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,429 [  15674]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,430 [  15675]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,430 [  15675]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,431 [  15676]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,432 [  15677]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,432 [  15677]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,433 [  15678]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,433 [  15678]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,434 [  15679]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,434 [  15679]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,435 [  15680]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,442 [  15687]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,442 [  15687]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,443 [  15688]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,443 [  15688]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,447 [  15692]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,449 [  15694]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,449 [  15694]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,449 [  15694]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,450 [  15695]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,451 [  15696]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,452 [  15697]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,452 [  15697]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,547 [  15792]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,548 [  15793]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,548 [  15793]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,549 [  15794]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,549 [  15794]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,550 [  15795]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,550 [  15795]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,551 [  15796]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,551 [  15796]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,551 [  15796]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,552 [  15797]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,649 [  15894]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,649 [  15894]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,650 [  15895]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,650 [  15895]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,651 [  15896]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,652 [  15897]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,652 [  15897]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,654 [  15899]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,655 [  15900]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,655 [  15900]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,656 [  15901]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,656 [  15901]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,656 [  15901]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,657 [  15902]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,657 [  15902]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,657 [  15902]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,658 [  15903]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,658 [  15903]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,659 [  15904]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:45,659 [  15904]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 15:09:47,111 [  17356]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/move-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,196 [  17441]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.History.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,199 [  17444]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.package.json.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,247 [  17492]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/copy-concurrently/README.md~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,354 [  17599]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/.Readme.md.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,380 [  17625]   WARN - a.repo.GitUntrackedFilesHolder - Ignoring untracked file under another root: /home/scz/Personal/micronaut/dnaadmin/frontend/node_modules/querystring/test/.index.js.un~; root: file:///home/scz/Personal/micronaut/dnaadmin; mapped root: null 
+2021-01-04 15:09:47,472 [  17717]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:09:49,013 [  19258]   WARN - util.DeprecatedMethodException - This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead 
+com.intellij.util.DeprecatedMethodException: This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead
+	at com.intellij.util.DeprecatedMethodException.report(DeprecatedMethodException.java:28)
+	at com.intellij.codeInsight.daemon.impl.TrafficLightRenderer.<init>(TrafficLightRenderer.java:76)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor$ScriptTrafficLightRenderer.<init>(ScriptTrafficLightRendererContributor.kt:27)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor.createRenderer(ScriptTrafficLightRendererContributor.kt:21)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.createRenderer(ErrorStripeUpdateManager.java:91)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.setOrRefreshErrorStripeRenderer(ErrorStripeUpdateManager.java:81)
+	at com.intellij.codeInsight.daemon.impl.PsiChangeHandler.lambda$updateChangesForDocument$0(PsiChangeHandler.java:111)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:216)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$200(TransactionGuardImpl.java:24)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:199)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:324)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:85)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:134)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:47)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:190)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:976)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:843)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:454)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:773)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:453)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:501)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-01-04 15:10:25,726 [  55971]  ERROR - ssions.ExpressionTypingVisitor - Exception while analyzing expression at (14,18) in /home/scz/Personal/micronaut/dnaadmin/build.gradle.kts 
+org.jetbrains.kotlin.utils.KotlinExceptionWithAttachments: Exception while analyzing expression at (14,18) in /home/scz/Personal/micronaut/dnaadmin/build.gradle.kts
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.logOrThrowException(ExpressionTypingVisitorDispatcher.java:246)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.lambda$getTypeInfo$0(ExpressionTypingVisitorDispatcher.java:224)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:164)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:134)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.safeGetTypeInfo(ExpressionTypingVisitorDispatcher.java:122)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.resolveArrayAccessSpecialMethod(BasicExpressionTypingVisitor.java:1723)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.resolveArrayAccessGetMethod(BasicExpressionTypingVisitor.java:1707)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.visitArrayAccessExpression(BasicExpressionTypingVisitor.java:1478)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.visitArrayAccessExpression(ExpressionTypingVisitorDispatcher.java:408)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher$ForDeclarations.visitArrayAccessExpression(ExpressionTypingVisitorDispatcher.java:46)
+	at org.jetbrains.kotlin.psi.KtArrayAccessExpression.accept(KtArrayAccessExpression.java:40)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.lambda$getTypeInfo$0(ExpressionTypingVisitorDispatcher.java:175)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:164)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:134)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.getTypeInfo(ExpressionTypingServices.java:124)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver.getQualifiedExpressionTypeInfo(CallExpressionResolver.kt:445)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.visitQualifiedExpression(BasicExpressionTypingVisitor.java:694)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.visitQualifiedExpression(ExpressionTypingVisitorDispatcher.java:383)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher$ForDeclarations.visitQualifiedExpression(ExpressionTypingVisitorDispatcher.java:46)
+	at org.jetbrains.kotlin.psi.KtVisitor.visitSafeQualifiedExpression(KtVisitor.java:306)
+	at org.jetbrains.kotlin.psi.KtSafeQualifiedExpression.accept(KtSafeQualifiedExpression.kt:23)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.lambda$getTypeInfo$0(ExpressionTypingVisitorDispatcher.java:175)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:164)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:134)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.getTypeInfo(ExpressionTypingServices.java:124)
+	at org.jetbrains.kotlin.resolve.calls.tower.PSICallResolver.resolveValueArgument(PSICallResolver.kt:769)
+	at org.jetbrains.kotlin.resolve.calls.tower.PSICallResolver.resolveArgumentsInParenthesis(PSICallResolver.kt:706)
+	at org.jetbrains.kotlin.resolve.calls.tower.PSICallResolver.toKotlinCall(PSICallResolver.kt:584)
+	at org.jetbrains.kotlin.resolve.calls.tower.PSICallResolver.runResolutionAndInferenceForGivenCandidates(PSICallResolver.kt:130)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.doResolveCallOrGetCachedResults(CallResolver.java:605)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.lambda$resolveCallWithKnownCandidate$4(CallResolver.java:582)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.resolveCallWithKnownCandidate(CallResolver.java:572)
+	at org.jetbrains.kotlin.types.expressions.ControlStructureTypingUtils.resolveSpecialConstructionAsCall(ControlStructureTypingUtils.java:167)
+	at org.jetbrains.kotlin.types.expressions.ControlStructureTypingUtils.resolveSpecialConstructionAsCall(ControlStructureTypingUtils.java:124)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.visitElvisExpression(BasicExpressionTypingVisitor.java:1270)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.visitBinaryExpression(BasicExpressionTypingVisitor.java:1057)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.visitBinaryExpression(ExpressionTypingVisitorDispatcher.java:403)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher$ForDeclarations.visitBinaryExpression(ExpressionTypingVisitorDispatcher.java:46)
+	at org.jetbrains.kotlin.psi.KtBinaryExpression.accept(KtBinaryExpression.java:35)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.lambda$getTypeInfo$0(ExpressionTypingVisitorDispatcher.java:175)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:164)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:134)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.getTypeInfo(ExpressionTypingVisitorDispatcher.java:146)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.getTypeInfo(ExpressionTypingServices.java:119)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.getTypeInfo(ExpressionTypingServices.java:94)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.getType(ExpressionTypingServices.java:136)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingServices.safeGetType(ExpressionTypingServices.java:79)
+	at org.jetbrains.kotlin.resolve.VariableTypeAndInitializerResolver.resolveInitializerType(VariableTypeAndInitializerResolver.kt:171)
+	at org.jetbrains.kotlin.resolve.VariableTypeAndInitializerResolver.access$resolveInitializerType(VariableTypeAndInitializerResolver.kt:26)
+	at org.jetbrains.kotlin.resolve.VariableTypeAndInitializerResolver$resolveTypeNullable$1.invoke(VariableTypeAndInitializerResolver.kt:91)
+	at org.jetbrains.kotlin.resolve.VariableTypeAndInitializerResolver$resolveTypeNullable$1.invoke(VariableTypeAndInitializerResolver.kt:26)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.types.DeferredType.getDelegate(DeferredType.java:107)
+	at org.jetbrains.kotlin.types.WrappedType.getAnnotations(KotlinType.kt:127)
+	at org.jetbrains.kotlin.resolve.lazy.ForceResolveUtil.forceResolveAllContents(ForceResolveUtil.java:108)
+	at org.jetbrains.kotlin.resolve.lazy.ForceResolveUtil.doForceResolveAllContents(ForceResolveUtil.java:95)
+	at org.jetbrains.kotlin.resolve.lazy.ForceResolveUtil.forceResolveAllContents(ForceResolveUtil.java:42)
+	at org.jetbrains.kotlin.idea.project.ResolveElementCache.propertyAdditionalResolve(ResolveElementCache.kt:633)
+	at org.jetbrains.kotlin.idea.project.ResolveElementCache.performElementAdditionalResolve(ResolveElementCache.kt:427)
+	at org.jetbrains.kotlin.idea.project.ResolveElementCache.getElementsAdditionalResolve(ResolveElementCache.kt:224)
+	at org.jetbrains.kotlin.idea.project.ResolveElementCache.resolveToElements(ResolveElementCache.kt:283)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl$analyze$3.invoke(ModuleResolutionFacadeImpl.kt:74)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl$analyze$3.invoke(ModuleResolutionFacadeImpl.kt:41)
+	at com.intellij.openapi.progress.impl.CancellationCheck.withCancellationCheck(CancellationCheck.kt:48)
+	at com.intellij.openapi.progress.impl.CancellationCheck$Companion.runWithCancellationCheck(CancellationCheck.kt:80)
+	at org.jetbrains.kotlin.idea.util.application.ApplicationUtilsKt.runWithCancellationCheck(ApplicationUtils.kt:48)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl.analyze(ModuleResolutionFacadeImpl.kt:73)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl.analyze(ModuleResolutionFacadeImpl.kt:56)
+	at org.jetbrains.kotlin.idea.caches.resolve.ResolutionFacadeWithDebugInfo.analyze(ResolutionFacadeWithDebugInfo.kt:45)
+	at org.jetbrains.kotlin.idea.caches.resolve.ExtendedResolutionApiKt.analyze(extendedResolutionApi.kt:97)
+	at org.jetbrains.kotlin.idea.caches.resolve.ResolutionUtils.analyze(resolutionApi.kt:127)
+	at org.jetbrains.uast.kotlin.internal.IdeaKotlinUastResolveProviderService.getBindingContext(IdeaKotlinUastResolveProviderService.kt:33)
+	at org.jetbrains.uast.kotlin.KotlinInternalUastUtilsKt.analyze(kotlinInternalUastUtils.kt:240)
+	at org.jetbrains.uast.kotlin.KotlinUFunctionCallExpression.getResolvedCall(KotlinUFunctionCallExpression.kt:45)
+	at org.jetbrains.uast.kotlin.KotlinUFunctionCallExpression.access$getResolvedCall$p(KotlinUFunctionCallExpression.kt:36)
+	at org.jetbrains.uast.kotlin.KotlinUFunctionCallExpression$kind$2.invoke(KotlinUFunctionCallExpression.kt:132)
+	at org.jetbrains.uast.kotlin.KotlinUFunctionCallExpression$kind$2.invoke(KotlinUFunctionCallExpression.kt:36)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)
+	at org.jetbrains.uast.kotlin.KotlinUFunctionCallExpression.getKind(KotlinUFunctionCallExpression.kt)
+	at com.intellij.codeInsight.daemon.impl.JavaColorProvider.getJavaColorFromExpression(JavaColorProvider.java:83)
+	at com.intellij.codeInsight.daemon.impl.JavaColorProvider.getColorFrom(JavaColorProvider.java:42)
+	at com.intellij.ui.ColorLineMarkerProvider.lambda$getLineMarkerInfo$0(ColorLineMarkerProvider.java:39)
+	at com.intellij.openapi.extensions.impl.ExtensionProcessingHelper.computeSafeIfAny(ExtensionProcessingHelper.java:55)
+	at com.intellij.openapi.extensions.ExtensionPointName.computeSafeIfAny(ExtensionPointName.java:57)
+	at com.intellij.ui.ColorLineMarkerProvider.getLineMarkerInfo(ColorLineMarkerProvider.java:38)
+	at com.intellij.codeInsight.daemon.impl.LineMarkersPass.queryProviders(LineMarkersPass.java:158)
+	at com.intellij.codeInsight.daemon.impl.LineMarkersPass.lambda$doCollectInformation$3(LineMarkersPass.java:83)
+	at com.intellij.codeInsight.daemon.impl.Divider.divideInsideAndOutsideInOneRoot(Divider.java:81)
+	at com.intellij.codeInsight.daemon.impl.LineMarkersPass.doCollectInformation(LineMarkersPass.java:78)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:56)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$1(PassExecutorService.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1137)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:393)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:658)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:610)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:65)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:392)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:368)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:172)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:183)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:366)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:188)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.AssertionError: JvmBuiltins has not been initialized properly
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltIns$settings$2$2.invoke(JvmBuiltIns.kt:71)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltIns$settings$2$2.invoke(JvmBuiltIns.kt:16)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.isAdditionalBuiltInsFeatureSupported(JvmBuiltInsSettings.kt)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.getFunctionsNames(JvmBuiltInsSettings.kt:159)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.getFunctionsNames(JvmBuiltInsSettings.kt:48)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:302)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.resolve.scopes.SubstitutingScope.getFunctionNames(SubstitutingScope.kt:82)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaClassMemberScope.computeFunctionNames(LazyJavaClassMemberScope.kt:79)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaClassMemberScope.computeFunctionNames(LazyJavaClassMemberScope.kt:67)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope$functionNamesLazy$2.invoke(LazyJavaScope.kt:263)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope$functionNamesLazy$2.invoke(LazyJavaScope.kt:59)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope.getFunctionNamesLazy(LazyJavaScope.kt)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope.getFunctionNames(LazyJavaScope.kt:267)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$_functionNames$2.invoke(LazyClassMemberScope.kt:123)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$_functionNames$2.invoke(LazyClassMemberScope.kt:50)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.get_functionNames(LazyClassMemberScope.kt)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.getFunctionNames(LazyClassMemberScope.kt:163)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$_allNames$2.invoke(LazyClassMemberScope.kt:151)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$_allNames$2.invoke(LazyClassMemberScope.kt:50)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:44)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.get_allNames(LazyClassMemberScope.kt)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.definitelyDoesNotContainName(LazyClassMemberScope.kt:167)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task.mayFitForName(TowerResolver.kt:265)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task.mayFitForName(TowerResolver.kt:258)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task.processImplicitReceiver(TowerResolver.kt:230)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task.access$processImplicitReceiver(TowerResolver.kt:101)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task$run$5.invoke(TowerResolver.kt:198)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver$Task.run(TowerResolver.kt:209)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver.run(TowerResolver.kt:99)
+	at org.jetbrains.kotlin.resolve.calls.tower.TowerResolver.runResolve(TowerResolver.kt:86)
+	at org.jetbrains.kotlin.resolve.calls.KotlinCallResolver.resolveCall(KotlinCallResolver.kt:78)
+	at org.jetbrains.kotlin.resolve.calls.tower.PSICallResolver.runResolutionAndInference(PSICallResolver.kt:102)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.doResolveCallOrGetCachedResults(CallResolver.java:599)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.lambda$computeTasksAndResolveCall$0(CallResolver.java:213)
+	at org.jetbrains.kotlin.util.PerformanceCounter.time(PerformanceCounter.kt:101)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.computeTasksAndResolveCall(CallResolver.java:211)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.computeTasksAndResolveCall(CallResolver.java:199)
+	at org.jetbrains.kotlin.resolve.calls.CallResolver.resolveSimpleProperty(CallResolver.java:140)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver.resolveSimpleName(CallExpressionResolver.kt:333)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver.access$resolveSimpleName(CallExpressionResolver.kt:73)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver$elementChain$1.invoke(CallExpressionResolver.kt:309)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver$elementChain$1.invoke(CallExpressionResolver.kt:73)
+	at org.jetbrains.kotlin.resolve.QualifiedExpressionResolver.resolveToPackageOrClassPrefix(QualifiedExpressionResolver.kt:511)
+	at org.jetbrains.kotlin.resolve.QualifiedExpressionResolver.resolveQualifierInExpressionAndUnroll(QualifiedExpressionResolver.kt:645)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver.elementChain(CallExpressionResolver.kt:306)
+	at org.jetbrains.kotlin.resolve.calls.CallExpressionResolver.getQualifiedExpressionTypeInfo(CallExpressionResolver.kt:441)
+	at org.jetbrains.kotlin.types.expressions.BasicExpressionTypingVisitor.visitQualifiedExpression(BasicExpressionTypingVisitor.java:694)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.visitQualifiedExpression(ExpressionTypingVisitorDispatcher.java:383)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher$ForDeclarations.visitQualifiedExpression(ExpressionTypingVisitorDispatcher.java:46)
+	at org.jetbrains.kotlin.psi.KtVisitor.visitDotQualifiedExpression(KtVisitor.java:302)
+	at org.jetbrains.kotlin.psi.KtDotQualifiedExpression.accept(KtDotQualifiedExpression.kt:32)
+	at org.jetbrains.kotlin.types.expressions.ExpressionTypingVisitorDispatcher.lambda$getTypeInfo$0(ExpressionTypingVisitorDispatcher.java:175)
+	... 111 more
+2021-01-04 15:10:25,729 [  55974]  ERROR - ssions.ExpressionTypingVisitor - IntelliJ IDEA 2020.3.1  Build #IU-203.6682.168 
+2021-01-04 15:10:25,729 [  55974]  ERROR - ssions.ExpressionTypingVisitor - JDK: 11.0.9.1; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2021-01-04 15:10:25,729 [  55974]  ERROR - ssions.ExpressionTypingVisitor - OS: Linux 
+2021-01-04 15:10:25,730 [  55975]  ERROR - ssions.ExpressionTypingVisitor - Plugin to blame: Kotlin version: 203-1.4.21-release-IJ5981.133 
+2021-01-04 15:10:25,730 [  55975]  ERROR - ssions.ExpressionTypingVisitor - Last Action: SaveAll 
+2021-01-04 15:11:22,625 [ 112870]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:23,148 [ 113393]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:23,502 [ 113747]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:24,787 [ 115032]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,260 [ 115505]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,403 [ 115648]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,559 [ 115804]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,654 [ 115899]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,777 [ 116022]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:25,960 [ 116205]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:26,239 [ 116484]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:26,370 [ 116615]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:11:28,067 [ 118312]   WARN - mentation.DocumentationManager - Index not ready 
+2021-01-04 15:14:08,357 [ 278602]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7256ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-151406-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 15:24:50,966 [ 921211]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6632ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-152449-IU-203.6682.168-MaskBlit.MaskBlit-6sec 
+2021-01-04 15:25:04,025 [ 934270]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7604ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-152501-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 15:25:57,162 [ 987407]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7277ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-152554-IU-203.6682.168-Unsafe.park-7sec 
+2021-01-04 15:26:20,640 [1010885]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (22)!!! 
+2021-01-04 15:26:20,679 [1010924]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (22)!!! 
+2021-01-04 15:26:42,017 [1032262]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7247ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-152639-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 15:29:12,298 [1182543]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6257ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-152911-IU-203.6682.168-MaskBlit.MaskBlit-6sec 
+2021-01-04 15:29:43,452 [1213697]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (35)!!! 
+2021-01-04 15:30:11,381 [1241626]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-01-04 15:30:11,386 [1241631]   WARN - ConfigurableExtensionPointUtil - use other group instead of unexpected one: build.android 
+2021-01-04 15:30:28,575 [1258820]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7415ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-153026-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 15:30:39,653 [1269898]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Gradle' id=reference.settingsdialog.project.gradle 
+2021-01-04 15:30:40,099 [1270344]   WARN - com.intellij.util.xmlb.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId 
+Downloading https://services.gradle.org/distributions/gradle-6.6.1-bin.zip
+.................................................................................................
+2021-01-04 15:32:11,752 [1361997]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6827ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-153209-IU-203.6682.168-Unsafe.park-6sec 
+2021-01-04 15:32:48,794 [1399039]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:36:52,463 [1642708]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7156ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-153650-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 15:40:52,895 [1883140]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7140ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-154050-IU-203.6682.168-X11GraphicsConfig.pGetBounds-7sec 
+2021-01-04 15:42:58,367 [2008612]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (24)!!! 
+2021-01-04 15:43:21,707 [2031952]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-01-04 15:43:21,710 [2031955]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-01-04 15:44:10,831 [2081076]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 15:44:11,911 [2082156]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+Downloading https://services.gradle.org/distributions/gradle-6.7.1-bin.zip
+..................................................................................................
+2021-01-04 16:14:13,140 [3883385]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:24:14,874 [4485119]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:24:15,102 [4485347]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:11,408 [4601653]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:11,688 [4601933]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:18,532 [4608777]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:32,919 [4623164]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:33,183 [4623428]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:26:36,196 [4626441]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:37:30,706 [5280951]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6825ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-163728-IU-203.6682.168-MaskBlit.MaskBlit-6sec 
+2021-01-04 16:37:35,729 [5285974]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5006ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-163735-IU-203.6682.168-X11GraphicsConfig.pGetBounds-5sec 
+2021-01-04 16:43:49,925 [5660170]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:43:50,051 [5660296]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:43:52,951 [5663196]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:44:04,733 [5674978]   WARN - mentation.DocumentationManager - Index not ready 
+2021-01-04 16:44:14,047 [5684292]   WARN - mentation.DocumentationManager - Index not ready 
+2021-01-04 16:44:14,989 [5685234]   WARN - mentation.DocumentationManager - Index not ready 
+2021-01-04 16:45:12,258 [5742503]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7068ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-164510-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 16:51:07,849 [6098094]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 16:52:50,346 [6200591]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6458ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-165248-IU-203.6682.168-MaskBlit.MaskBlit-6sec 
+2021-01-04 17:03:07,262 [6817507]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7240ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-170305-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-01-04 17:04:48,622 [  10165]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 17:04:48,656 [  10199]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 17:04:48,661 [  10204]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,662 [  10205]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,663 [  10206]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,663 [  10206]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,664 [  10207]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,665 [  10208]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,665 [  10208]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,666 [  10209]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,667 [  10210]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,667 [  10210]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,668 [  10211]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,668 [  10211]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,670 [  10213]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,671 [  10214]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,671 [  10214]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,672 [  10215]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,673 [  10216]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,673 [  10216]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,673 [  10216]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,674 [  10217]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,674 [  10217]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,675 [  10218]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,675 [  10218]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,675 [  10218]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,676 [  10219]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,676 [  10219]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,676 [  10219]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,677 [  10220]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,677 [  10220]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,677 [  10220]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,678 [  10221]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,678 [  10221]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,678 [  10221]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,679 [  10222]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,679 [  10222]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,680 [  10223]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,680 [  10223]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,681 [  10224]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,682 [  10225]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,682 [  10225]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,683 [  10226]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,683 [  10226]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,684 [  10227]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,685 [  10228]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,685 [  10228]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,686 [  10229]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,686 [  10229]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,687 [  10230]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,688 [  10231]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,688 [  10231]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,689 [  10232]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,690 [  10233]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,691 [  10234]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,692 [  10235]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,692 [  10235]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,693 [  10236]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,693 [  10236]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,694 [  10237]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,694 [  10237]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,695 [  10238]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,695 [  10238]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,695 [  10238]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,696 [  10239]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,696 [  10239]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,697 [  10240]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,697 [  10240]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,697 [  10240]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,697 [  10240]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,698 [  10241]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,698 [  10241]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,698 [  10241]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,699 [  10242]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,699 [  10242]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,700 [  10243]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,701 [  10244]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,701 [  10244]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,702 [  10245]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,702 [  10245]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,703 [  10246]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,703 [  10246]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,703 [  10246]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:48,704 [  10247]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:04:51,871 [  13414]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:04:53,218 [  14761]   WARN - util.DeprecatedMethodException - This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead 
+com.intellij.util.DeprecatedMethodException: This method in 'com.intellij.codeInsight.daemon.impl.TrafficLightRenderer' is deprecated and going to be removed soon. Please use TrafficLightRenderer(Project, Document) instead
+	at com.intellij.util.DeprecatedMethodException.report(DeprecatedMethodException.java:28)
+	at com.intellij.codeInsight.daemon.impl.TrafficLightRenderer.<init>(TrafficLightRenderer.java:76)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor$ScriptTrafficLightRenderer.<init>(ScriptTrafficLightRendererContributor.kt:27)
+	at org.jetbrains.kotlin.idea.core.script.ScriptTrafficLightRendererContributor.createRenderer(ScriptTrafficLightRendererContributor.kt:21)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.createRenderer(ErrorStripeUpdateManager.java:91)
+	at com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager.setOrRefreshErrorStripeRenderer(ErrorStripeUpdateManager.java:81)
+	at com.intellij.codeInsight.daemon.impl.PsiChangeHandler.lambda$updateChangesForDocument$0(PsiChangeHandler.java:111)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:216)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$200(TransactionGuardImpl.java:24)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:199)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:324)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:85)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:134)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:47)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:190)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:976)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:843)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:454)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:773)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:453)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:501)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-01-04 17:05:14,788 [  36331]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,080 [  38623]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,505 [  39048]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,638 [  39181]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,777 [  39320]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,881 [  39424]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:17,971 [  39514]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:18,237 [  39780]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:25,577 [  47120]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7118ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-170523-IU-203.6682.168-MaskBlit.MaskBlit-7sec 
+2021-01-04 17:05:25,658 [  47201]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:26,058 [  47601]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:05:51,357 [  72900]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-8af429280ba052872ca2df9c5f6990c53016a9a62f1053a2541b1b970a825b03-fa0196ca5ca8 is incompatible and is not registered for project 'dnaadmin' 
+2021-01-04 17:05:51,384 [  72927]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-31f4accdd8637c28b9aef807584ace99e2951907494103710986cc05168e36ec-1b7b21593c6a is incompatible and is not registered for project 'dnaadmin' 
+2021-01-04 17:05:51,397 [  72940]   WARN - redIndexChunkConfigurationImpl - Chunk mvn-b9f6be0da5eea3ed5d88b13250fbf110c0f4661096dd8511d446d74256de053e-b2f15794fbf6 is incompatible and is not registered for project 'dnaadmin' 
+2021-01-04 17:06:14,273 [  95816]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:06:41,971 [ 123514]  ERROR - hes.resolve.KotlinCacheService - JvmBuiltins has not been initialized properly 
+java.lang.AssertionError: JvmBuiltins has not been initialized properly
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltIns$settings$2$2.invoke(JvmBuiltIns.kt:71)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltIns$settings$2$2.invoke(JvmBuiltIns.kt:16)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.isAdditionalBuiltInsFeatureSupported(JvmBuiltInsSettings.kt)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.getFunctionsNames(JvmBuiltInsSettings.kt:159)
+	at org.jetbrains.kotlin.builtins.jvm.JvmBuiltInsSettings.getFunctionsNames(JvmBuiltInsSettings.kt:48)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:302)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.resolve.scopes.SubstitutingScope.getFunctionNames(SubstitutingScope.kt:82)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaClassMemberScope.computeFunctionNames(LazyJavaClassMemberScope.kt:79)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaClassMemberScope.computeFunctionNames(LazyJavaClassMemberScope.kt:67)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope$functionNamesLazy$2.invoke(LazyJavaScope.kt:263)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope$functionNamesLazy$2.invoke(LazyJavaScope.kt:59)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope.getFunctionNamesLazy(LazyJavaScope.kt)
+	at org.jetbrains.kotlin.load.java.lazy.descriptors.LazyJavaScope.getFunctionNames(LazyJavaScope.kt:267)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.getFunctionNames(DeserializedMemberScope.kt:59)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getNonDeclaredFunctionNames(DeserializedClassDescriptor.kt:301)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:269)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation$functionNames$2.invoke(DeserializedMemberScope.kt:239)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.storage.StorageKt.getValue(storage.kt:42)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.getFunctionNames(DeserializedMemberScope.kt)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation.addFunctionsAndPropertiesTo(DeserializedMemberScope.kt:368)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedMemberScope.computeDescriptors(DeserializedMemberScope.kt:126)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope$allDescriptors$1.invoke(DeserializedClassDescriptor.kt:227)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope$allDescriptors$1.invoke(DeserializedClassDescriptor.kt:220)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.serialization.deserialization.descriptors.DeserializedClassDescriptor$DeserializedClassMemberScope.getContributedDescriptors(DeserializedClassDescriptor.kt:237)
+	at org.jetbrains.kotlin.resolve.scopes.ResolutionScope$DefaultImpls.getContributedDescriptors$default(ResolutionScope.kt:52)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.computeExtraDescriptors(LazyClassMemberScope.kt:81)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$allDescriptors$1.invoke(LazyClassMemberScope.kt:69)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope$allDescriptors$1.invoke(LazyClassMemberScope.kt:50)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedLazyValue.invoke(LockBasedStorageManager.java:375)
+	at org.jetbrains.kotlin.storage.LockBasedStorageManager$LockBasedNotNullLazyValue.invoke(LockBasedStorageManager.java:494)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassMemberScope.getContributedDescriptors(LazyClassMemberScope.kt:76)
+	at org.jetbrains.kotlin.resolve.DescriptorUtils.getAllDescriptors(DescriptorUtils.java:576)
+	at org.jetbrains.kotlin.resolve.lazy.descriptors.LazyClassDescriptor.resolveMemberHeaders(LazyClassDescriptor.java:614)
+	at org.jetbrains.kotlin.resolve.LazyTopDownAnalyzer.resolveAllHeadersInClasses(LazyTopDownAnalyzer.kt:239)
+	at org.jetbrains.kotlin.resolve.LazyTopDownAnalyzer.analyzeDeclarations(LazyTopDownAnalyzer.kt:212)
+	at org.jetbrains.kotlin.resolve.LazyTopDownAnalyzer.analyzeDeclarations$default(LazyTopDownAnalyzer.kt:60)
+	at org.jetbrains.kotlin.idea.caches.resolve.KotlinResolveDataProvider.analyze(PerFileAnalysisCache.kt:455)
+	at org.jetbrains.kotlin.idea.caches.resolve.PerFileAnalysisCache.analyze(PerFileAnalysisCache.kt:236)
+	at org.jetbrains.kotlin.idea.caches.resolve.PerFileAnalysisCache.analyze$default(PerFileAnalysisCache.kt:226)
+	at org.jetbrains.kotlin.idea.caches.resolve.PerFileAnalysisCache.getAnalysisResults$kotlin_core(PerFileAnalysisCache.kt:109)
+	at org.jetbrains.kotlin.idea.caches.resolve.ProjectResolutionFacade.getAnalysisResultsForElements$kotlin_core(ProjectResolutionFacade.kt:161)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl$analyzeWithAllCompilerChecks$1.invoke(ModuleResolutionFacadeImpl.kt:82)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl$analyzeWithAllCompilerChecks$1.invoke(ModuleResolutionFacadeImpl.kt:41)
+	at com.intellij.openapi.progress.impl.CancellationCheck.withCancellationCheck(CancellationCheck.kt:48)
+	at com.intellij.openapi.progress.impl.CancellationCheck$Companion.runWithCancellationCheck(CancellationCheck.kt:80)
+	at org.jetbrains.kotlin.idea.util.application.ApplicationUtilsKt.runWithCancellationCheck(ApplicationUtils.kt:48)
+	at org.jetbrains.kotlin.idea.caches.resolve.ModuleResolutionFacadeImpl.analyzeWithAllCompilerChecks(ModuleResolutionFacadeImpl.kt:81)
+	at org.jetbrains.kotlin.idea.caches.resolve.ResolutionFacadeWithDebugInfo.analyzeWithAllCompilerChecks(ResolutionFacadeWithDebugInfo.kt:57)
+	at org.jetbrains.kotlin.idea.caches.resolve.ResolutionUtils.analyzeWithAllCompilerChecks(resolutionApi.kt:171)
+	at org.jetbrains.kotlin.idea.highlighter.KotlinPsiChecker.annotateElement(KotlinPsiChecker.kt:48)
+	at org.jetbrains.kotlin.idea.highlighter.AbstractKotlinPsiChecker.annotate(AbstractKotlinPsiChecker.kt:20)
+	at com.intellij.codeInsight.daemon.impl.DefaultHighlightVisitor.runAnnotators(DefaultHighlightVisitor.java:136)
+	at com.intellij.codeInsight.daemon.impl.DefaultHighlightVisitor.visit(DefaultHighlightVisitor.java:116)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.runVisitors(GeneralHighlightingPass.java:336)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$collectHighlights$5(GeneralHighlightingPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:295)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.lambda$analyzeByVisitors$6(GeneralHighlightingPass.java:298)
+	at com.intellij.codeInsight.daemon.impl.DefaultHighlightVisitor.analyze(DefaultHighlightVisitor.java:96)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.analyzeByVisitors(GeneralHighlightingPass.java:298)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectHighlights(GeneralHighlightingPass.java:266)
+	at com.intellij.codeInsight.daemon.impl.GeneralHighlightingPass.collectInformationWithProgress(GeneralHighlightingPass.java:212)
+	at com.intellij.codeInsight.daemon.impl.ProgressableTextEditorHighlightingPass.doCollectInformation(ProgressableTextEditorHighlightingPass.java:84)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:56)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$1(PassExecutorService.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1137)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:393)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:658)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:610)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:65)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:392)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:368)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:172)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:183)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:366)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:188)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+2021-01-04 17:06:41,974 [ 123517]  ERROR - hes.resolve.KotlinCacheService - IntelliJ IDEA 2020.3.1  Build #IU-203.6682.168 
+2021-01-04 17:06:41,983 [ 123526]  ERROR - hes.resolve.KotlinCacheService - JDK: 11.0.9.1; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2021-01-04 17:06:41,983 [ 123526]  ERROR - hes.resolve.KotlinCacheService - OS: Linux 
+2021-01-04 17:06:41,984 [ 123527]  ERROR - hes.resolve.KotlinCacheService - Plugin to blame: Kotlin version: 203-1.4.21-release-IJ5981.133 
+2021-01-04 17:06:41,984 [ 123527]  ERROR - hes.resolve.KotlinCacheService - Last Action: SaveAll 
+2021-01-04 17:06:43,354 [ 124897]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2021-01-04 17:08:21,000 [ 222543]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6780ms, details saved to /home/scz/.cache/JetBrains/IntelliJIdea2020.3/log/threadDumps-freeze-20210104-170819-IU-203.6682.168-MaskBlit.MaskBlit-6sec 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:314): dbind-WARNING **: 17:58:10.546: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-bG0g6ClTxb: Connection refused
+2021-01-04 17:58:21,226 [  10997]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 17:58:21,259 [  11030]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-01-04 17:58:21,263 [  11034]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,263 [  11034]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,264 [  11035]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,264 [  11035]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,264 [  11035]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,264 [  11035]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,265 [  11036]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,265 [  11036]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,265 [  11036]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,265 [  11036]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,265 [  11036]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,266 [  11037]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,266 [  11037]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,266 [  11037]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,267 [  11038]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,267 [  11038]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,268 [  11039]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,269 [  11040]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,269 [  11040]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,270 [  11041]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,270 [  11041]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,270 [  11041]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,271 [  11042]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,271 [  11042]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,271 [  11042]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,271 [  11042]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,272 [  11043]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,272 [  11043]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,272 [  11043]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,272 [  11043]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,273 [  11044]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,274 [  11045]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,274 [  11045]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,275 [  11046]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,275 [  11046]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,275 [  11046]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,276 [  11047]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,276 [  11047]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,277 [  11048]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,277 [  11048]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,278 [  11049]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,278 [  11049]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,279 [  11050]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,279 [  11050]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,279 [  11050]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,280 [  11051]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,280 [  11051]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,281 [  11052]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,281 [  11052]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,281 [  11052]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,282 [  11053]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,282 [  11053]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,283 [  11054]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,283 [  11054]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,284 [  11055]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,284 [  11055]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,284 [  11055]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,285 [  11056]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,285 [  11056]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,286 [  11057]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,286 [  11057]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,286 [  11057]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,287 [  11058]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,287 [  11058]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,287 [  11058]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,288 [  11059]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,288 [  11059]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,289 [  11060]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,289 [  11060]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,289 [  11060]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,290 [  11061]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,290 [  11061]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,290 [  11061]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,291 [  11062]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,291 [  11062]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,292 [  11063]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,292 [  11063]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,292 [  11063]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,292 [  11063]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,293 [  11064]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,293 [  11064]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,293 [  11064]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:21,293 [  11064]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.idea.gradle.ext.profiler.model.JavaTaskData` 
+2021-01-04 17:58:23,983 [  13754]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 17:58:38,264 [  28035]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.indexing.shared.download.SharedIndexDownloadExecutor$submitPreProgressSync$1$context$1$showBackgroundableProgress$task$1.run(SharedIndexDownloadExecutor.kt:231) 
+2021-01-04 23:05:47,139 [18456910]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 

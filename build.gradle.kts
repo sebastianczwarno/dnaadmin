@@ -1,3 +1,5 @@
+import com.moowork.gradle.node.npm.NpmTask
+
 plugins {
     val kotlinVersion = "1.4.21"
     id("org.jetbrains.kotlin.jvm") version kotlinVersion
@@ -5,6 +7,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.allopen") version kotlinVersion
     id("com.github.johnrengelman.shadow") version "6.1.0"
     id("io.micronaut.application") version "1.2.0"
+    id("com.github.node-gradle.node") version "2.2.4"
 }
 
 version = "0.1"
@@ -30,7 +33,7 @@ micronaut {
 }
 
 dependencies {
-    kapt("io.micronaut.openapi:micronaut-openapi:2.3.0")
+    kapt("io.micronaut.openapi:micronaut-openapi")
     implementation("io.micronaut:micronaut-validation")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
     implementation("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
@@ -58,6 +61,12 @@ java {
     sourceCompatibility = JavaVersion.toVersion(jvmVersion)
 }
 
+node {
+    version = "14.15.3"
+    download = true
+    workDir = file("${project.projectDir}/build")
+}
+
 tasks {
     compileKotlin {
         kotlinOptions {
@@ -68,5 +77,28 @@ tasks {
         kotlinOptions {
             jvmTarget = jvmVersion
         }
+    }
+
+    val appNpmInstall by creating(NpmTask::class) {
+        description = "Installs all dependencies from package.json"
+        setWorkingDir(file("${project.projectDir}/frontend"))
+        setArgs(listOf("install"))
+    }
+
+    val appNpmBuild by creating(NpmTask::class) {
+        dependsOn(appNpmInstall)
+        description = "Builds project"
+        setWorkingDir(file("${project.projectDir}/frontend"))
+        setArgs(listOf("run", "build"))
+    }
+
+    val copyToWebRoot by creating(Copy::class) {
+        from("${project.projectDir}/frontend/build")
+        destinationDir = file("${buildDir}/resources/main/public")
+        dependsOn(appNpmBuild)
+    }
+
+    val processResources by getting(ProcessResources::class) {
+        dependsOn(copyToWebRoot)
     }
 }

@@ -1,0 +1,19 @@
+micronaut:
+  application:
+    name: dnaadmin
+  router:
+    static-resources:
+      default:
+        enabled: true
+        mapping: "/**"
+        paths: "classpath:public"
+datasources:
+  default:
+    url: ${JDBC_DATABASE_URL}
+    driverClassName: org.postgresql.Driver
+    username: ${JDBC_DATABASE_USERNAME}
+    password: ${JDBC_DATABASE_PASSWORD}
+flyway:
+  datasources:
+    default:
+      enabled: true
