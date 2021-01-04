@@ -13,9 +13,9 @@ plugins {
 version = "0.1"
 group = "com.sggw"
 
-val kotlinVersion = project.properties["kotlinVersion"]?.toString() ?: "0"
-val jvmVersion = project.properties["jvmVersion"]?.toString() ?: "0"
-val postgresVersion = project.properties["postgresVersion"]?.toString() ?: "0"
+val kotlinVersion: String by project
+val jvmVersion: String by project
+val postgresVersion: String by project
 val fullMainClass = "com.sggw.ApplicationKt"
 
 repositories {
